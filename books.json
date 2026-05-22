@@ -16,7 +16,15 @@
     "endDate": "2026-06-30 23:59:59"
   },
   {
-    "title": "Network Security",
+    "title": "Network Security 1",
+    "category": "Networking",
+    "coverUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+    "pdfUrl": "https://cdn.jsdelivr.net/gh/kuppamjohari/testing-drm@main/Kuppamjohari.pdf",
+    "startDate": "2024-01-01 10:00:00",
+    "endDate": "2026-07-30 23:59:59"
+  },
+  {
+    "title": "Network Security 2",
     "category": "Networking",
     "coverUrl": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
     "pdfUrl": "https://cdn.jsdelivr.net/gh/kuppamjohari/testing-drm@main/Kuppamjohari.pdf",
